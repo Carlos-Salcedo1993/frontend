@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export const api = axios.create({
-    baseURL: 'https://backend-yiru.onrender.com/api/',
+    baseURL: 'https://backend-epy9.onrender.com/api/',
 })
